@@ -1,4 +1,4 @@
-# Программатор чипов принтера SP150SU на базе Arduino
+# Программатор чипов принтера Ricoh SP150SU на базе Arduino
 
 ![Image alt](https://github.com/ArtemAvanesov/Arduino-Printer-Programmer/raw/master/Изображения/printer.jpg)
 
