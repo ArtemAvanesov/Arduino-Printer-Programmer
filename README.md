@@ -12,13 +12,17 @@
 2) Прошить Arduino предложенным скетчем
 
 3) Подключить все по представленной схеме:
+
 ![Image alt](https://github.com/ArtemAvanesov/Arduino-Printer-Programmer/raw/master/Изображения/schema.jpg)
+
 У меня это выглядело так:
+
 ![Image alt](https://github.com/ArtemAvanesov/Arduino-Printer-Programmer/raw/master/Изображения/real_schema.jpg)
 
 4) Подключить Arduino к компьютеру и в IDE открыть Монитор порта:115200 бод
 
 5) Далее с помощью посылок W и R вы можете считать старую прошивку и записать новую соответственно.
+
 ![Image alt](https://github.com/ArtemAvanesov/Arduino-Printer-Programmer/raw/master/Изображения/serial.jpg)
 
 6) Готово! Возвращаем картридж обратно в принтер и радуемся результату.
